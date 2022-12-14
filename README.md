@@ -21,5 +21,5 @@ Next is the award-winning experience
 - 🌱 Classification and Abnormal Signal Detection Module Design of Objects in Image Data - 2016 Autumn Conference Excellent Paper Award(AJMAHS)
 - 🌱 2018 Academic Excellence Award - Graduate School of Soongsil University
 
-![image](https://user-images.githubusercontent.com/14118735/207497976-654400a2-fc7e-45a9-8090-cfc46ffd5547.png)
 
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/14118735/207500421-001334b7-50d0-4cfd-9dca-501461337b4e.png">
