@@ -22,4 +22,5 @@ Next is the award-winning experience
 - 🌱 2018 Academic Excellence Award - Graduate School of Soongsil University
 
 
-<img width="888" alt="image" src="https://user-images.githubusercontent.com/14118735/207500421-001334b7-50d0-4cfd-9dca-501461337b4e.png">
+![image](https://github.com/JUKYUNGYOO/JUKYUNGYOO/assets/14118735/aa4ed7d8-4c30-4112-b98d-26cba635d415)
+
