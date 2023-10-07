@@ -20,7 +20,7 @@ Next is the award-winning experience
 ) - 2017.12.07
 - 🌱 Classification and Abnormal Signal Detection Module Design of Objects in Image Data - 2016 Autumn Conference Excellent Paper Award(AJMAHS)
 - 🌱 2018 Academic Excellence Award - Graduate School of Soongsil University
-- Graduate School of Soongsil University GPA, 4.3
+- 🌱 Graduate School of Soongsil University GPA, 4.3
 
 <img width="864" alt="image" src="https://github.com/JUKYUNGYOO/JUKYUNGYOO/assets/14118735/b5f207ad-4038-4572-8395-69bdc937e639">
 
