@@ -3,7 +3,7 @@
 
 >
 Hi, I'm JukyungYoo
-Information about me
+about me
 - 🔭 I studied information media major in IT department at University. And my Master's degree is software engineering.
 - 🌱 I’m have completed the 8-months course of Creative Human Resources Development Project of the Korea Creative Content Agency(KOCCA)
 - 😄 I’m have completed the course of Project Management of S/W Development & Data Informatics for Big Data
