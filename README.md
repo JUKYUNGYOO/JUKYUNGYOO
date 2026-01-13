@@ -9,6 +9,7 @@ about me
 - 😄 I’m have completed the course of Project Management of S/W Development & Data Informatics for Big Data
      </br>(USC-University of Southern California)
 - 👯 As a career, I have experience in full stack, backend, front development, and Computer vision related object recognition.
+-    and LLM, Reinforcement Lerning, 3d Reconstruction, AI Agent 
 >
 Next is the award-winning experience
 - 🌱 SMART FOR Child  - Grand Prize (Minister of Science, ICT and Future Planning)- 2015.12.14
